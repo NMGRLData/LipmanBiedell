@@ -10,23 +10,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
-        "fn": 270,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
-        "outlier_excluded": [
-            139,
-            235,
-            242,
-            274,
-            276,
-            245,
-            26,
-            155,
-            124,
-            95
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.006919804222134597
     },
     "Ar37": {
@@ -40,28 +29,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
-        "fn": 265,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
-        "outlier_excluded": [
-            163,
-            68,
-            136,
-            233,
-            75,
-            141,
-            173,
-            242,
-            179,
-            53,
-            278,
-            87,
-            216,
-            60,
-            94
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.037371039646463766
     },
     "Ar38": {
@@ -75,25 +48,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Linear",
-        "fn": 268,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
-        "outlier_excluded": [
-            197,
-            198,
-            200,
-            201,
-            141,
-            205,
-            112,
-            18,
-            114,
-            277,
-            278,
-            250
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 0.06335546471424049
     },
     "Ar39": {
@@ -107,21 +67,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
-        "fn": 272,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
-        "outlier_excluded": [
-            194,
-            38,
-            105,
-            142,
-            15,
-            238,
-            150,
-            59
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": -0.006031536257596296
     },
     "Ar40": {
@@ -135,26 +86,12 @@
             "use_standard_deviation_filtering": false
         },
         "fit": "Parabolic",
-        "fn": 267,
+        "fn": 280,
         "include_baseline_error": false,
         "n": 280,
-        "outlier_excluded": [
-            252,
-            1,
-            265,
-            19,
-            179,
-            279,
-            152,
-            26,
-            91,
-            28,
-            124,
-            218,
-            219
-        ],
+        "outlier_excluded": null,
         "reviewed": true,
-        "user_excluded": [],
+        "user_excluded": null,
         "value": 2.4935122432307892
     },
     "Ar41": {
